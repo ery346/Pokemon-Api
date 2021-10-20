@@ -1,0 +1,54 @@
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(44, 51, 30);
+}
+
+body{
+    background-image: url(pokemon-in-the-wild.png);
+    background-size: cover;
+}
+
+#uno{
+    text-align: center;
+}
+
+#error{
+    color: rgb(247, 247, 247);
+    background-color: rgb(255, 27, 27);
+    padding-bottom: 0rem;
+    text-align: center;
+    width: 549px ;
+    position: absolute;
+    right: 507px;
+}
+#respuesta2{
+    font-variant: small-caps;
+    font-size: xx-large;
+   
+}
+
+#respuesta{
+    font-variant: small-caps;
+    padding-left: 3rem;
+    background-color: transparent;
+    background-size: 3rem;
+    font-size: xx-large;
+    
+    background-color: rgba(120, 210, 240, 0.13);
+    text-align: center;
+}
+img{
+    
+    height: 200px;
+    width: 200px;
+    border: 1px solid rgba(206, 195, 38, 0.171);
+    background-color: rgba(240, 230, 140, 0.307);
+    
+    position: sticky;
+    left: 700px;
+}
+
+#status{
+    /* border: 1px solid rgba(240, 225, 20, 0.137); */
+    background-color: rgba(144, 255, 174, 0.116);
+}
